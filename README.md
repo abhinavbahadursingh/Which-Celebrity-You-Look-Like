@@ -97,7 +97,7 @@ The **celebrity with the highest similarity score** is displayed.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Which-Celebrity-You-Look-Like.git
+git clone https://github.com/abhinavbahadursingh/Which-Celebrity-You-Look-Like.git
 cd Which-Celebrity-You-Look-Like
 ```
 
@@ -196,4 +196,6 @@ If you like this project:
 
 Developed by **Your Name**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/abhinavbahadursingh
+
+
