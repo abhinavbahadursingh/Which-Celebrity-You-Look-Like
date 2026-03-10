@@ -194,8 +194,9 @@ If you like this project:
 
 # 👨‍💻 Author
 
-Developed by **Your Name**
+Developed by **Abhinav Bahadur Singh**
 
 GitHub: https://github.com/abhinavbahadursingh
+
 
 
