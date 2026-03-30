@@ -59,7 +59,7 @@ scikit-learn==1.8.0
 scipy==1.17.1
 six==1.17.0
 smmap==5.0.3
-streamlit==1.55.0
+streamlit==1.33.0
 tenacity==9.1.4
 tensorboard==2.15.2
 tensorboard-data-server==0.7.2
