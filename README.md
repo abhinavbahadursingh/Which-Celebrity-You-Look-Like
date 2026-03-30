@@ -148,15 +148,6 @@ streamlit run app.py
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots here 👇
-
-```
-/screenshots/app_ui.png
-/screenshots/result.png
-```
-
 Example:
 
 ```
